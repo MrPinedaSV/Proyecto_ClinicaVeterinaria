@@ -7,6 +7,7 @@ Creacion de una apliacion clinica Veterinaria
 ## DESARROLLADORES 
 
 --Hugo Fernando Guzman Flores - Programador.
+
 --Ronald David Pineda Lopez - Diseñador y Programador.
   
 ## Licencia
