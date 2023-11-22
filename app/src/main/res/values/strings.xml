@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Clinica Veterinaria SV</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_link">¿No tienes una cuenta? Regístrate aquí</string>
+
+    <!-- Mensajes de Toast -->
+    <string name="login_successful">Inicio de sesión exitoso</string>
+    <string name="login_failed">Credenciales incorrectas</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="no_tienes_una_cuenta">¿No tienes una cuenta?</string>
+    <string name="reg_strate_aqu">Regístrate aquí</string>
+
+    <!-- Mensajes Menu -->
+    <string name="bienvenidos">Bienvenidos al app, seleccionar una opcion del menu!</string>
+    <string name="opcion_menu1">Inicio</string>
+    <string name="opcion_menu2">Doctor</string>
+    <string name="opcion_menu4">Paciente</string>
+    <string name="opcion_menu3">Cita</string>
+    <string name="mensaje_1">Se seleccionó la primer opción</string>
+    <string name="mensaje_2">Se seleccionó la segunda opción</string>
+    <string name="mensaje_3">Se seleccionó la tercer opción</string>
+    <string name="mensaje_icono_telefono">Se seleccionó icono telefono</string>
+    <string name="mensaje_icono_camara">Se seleccionó icono camara</string>
+    <string name="opcion_menuSalir">Cerrar Sesion</string>
+    <string name="nameClinica">Clinica Veterinaria Santa Barbara</string>
+    <string name="eslogan">Donde la salud de tus mascotas es nuestra prioridad</string>
+
+
+</resources>

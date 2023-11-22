@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- activity_editar.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:orientation="vertical"
+android:padding="16dp">
+
+<EditText
+    android:id="@+id/editTextNombreEditar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Nombre" />
+
+<EditText
+    android:id="@+id/editTextDireccionEditar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Dirección" />
+
+<EditText
+    android:id="@+id/editTextDuiEditar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="DUI" />
+
+<EditText
+    android:id="@+id/editTextMascotaEditar"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:hint="Mascota" />
+
+    <Button
+        android:id="@+id/btnGuardarCambios"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#9071C6"
+        android:text="Guardar Cambios"
+        app:strokeColor="#000000"
+        app:strokeWidth="2dp" />
+
+</LinearLayout>
